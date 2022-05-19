@@ -1,6 +1,7 @@
 package ru.maxvagan;
 
 public class clsHogwarts {
+
     private final String studentName;
     private final String studentSurname;
     private final String nameOfFaculty;

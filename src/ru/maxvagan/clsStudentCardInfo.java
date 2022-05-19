@@ -1,6 +1,7 @@
 package ru.maxvagan;
 
 public class clsStudentCardInfo {
+
     public void getInfo(clsGriffindor student) {
         String infoCard = "Student of Hogwarts School\r\n" +
                 "----------- +++ ----------\r\n" +

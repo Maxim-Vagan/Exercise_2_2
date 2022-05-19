@@ -1,6 +1,7 @@
 package ru.maxvagan;
 
 public class clsGriffindor extends clsHogwarts {
+
     private short nobleness;
     private short honor;
     private short brave;

@@ -1,6 +1,7 @@
 package ru.maxvagan;
 
 public class clsSlizerent extends clsHogwarts{
+
     private short cunning;
     private short determination;
     private short ambition;

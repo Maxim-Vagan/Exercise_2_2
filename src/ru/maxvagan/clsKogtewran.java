@@ -1,6 +1,7 @@
 package ru.maxvagan;
 
 public class clsKogtewran extends clsHogwarts{
+
     private short smartness;
     private short wiseness;
     private short creativeness;

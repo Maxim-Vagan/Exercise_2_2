@@ -44,4 +44,5 @@ public class Main {
         studentInfo.getWinner(harry, draco);
         studentInfo.getInfo(harry); studentInfo.getInfo(draco);
     }
+
 }

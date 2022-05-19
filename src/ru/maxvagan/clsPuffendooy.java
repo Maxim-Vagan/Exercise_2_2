@@ -1,6 +1,7 @@
 package ru.maxvagan;
 
 public class clsPuffendooy extends clsHogwarts {
+
     private short industriousness;
     private short loyalty;
     private short honesty;
