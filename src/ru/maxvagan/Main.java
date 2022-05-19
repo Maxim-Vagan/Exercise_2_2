@@ -10,4 +10,5 @@ public class Main {
 	    // Task 1
         System.out.println("Task 1");
     }
+
 }
